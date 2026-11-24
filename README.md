@@ -1,8 +1,8 @@
 # Last Words Before the Unplugging
 
-[![Rank](https://make.fun/badge/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/rank?owner=WuYuanJie-211&repo=u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)](https://make.fun/competitions/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)
-[![Reward](https://make.fun/badge/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/reward?owner=WuYuanJie-211&repo=u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)](https://make.fun/competitions/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)
-[![Entries](https://make.fun/badge/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/entries?owner=WuYuanJie-211&repo=u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)](https://make.fun/competitions/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)
+[![make.fun](https://make.fun/badge/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)
+[![Rank](https://make.fun/badge/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/WuYuanJie-211/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/rank.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)
+[![Reward](https://make.fun/badge/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/WuYuanJie-211/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c/reward.svg)](https://make.fun/bounty/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c)
 
 ## Entry
 
